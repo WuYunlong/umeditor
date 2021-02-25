@@ -1,0 +1,15 @@
+{
+  "name": "umeditor",
+  "homepage": "https://github.com/WuYunlong/umeditor",
+  "version": "1.0.0",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "08af3003cfdaa3dcab238ba9ebea81c28c2d63e6"
+  },
+  "_source": "https://github.com/WuYunlong/umeditor.git",
+  "_target": "v1.0.0",
+  "_originalSource": "https://github.com/WuYunlong/umeditor.git",
+  "_direct": true
+}
